@@ -1,1 +1,1 @@
-console.log("Eng.Otuma Samoka Tijjan");
+console.log("Eng Otuma Samoka Tijjan");
